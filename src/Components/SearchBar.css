@@ -1,0 +1,12 @@
+.searchInputs{
+    margin: 100px auto;
+    
+}
+
+.search input{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    border: 0;
+    color: black;
+}

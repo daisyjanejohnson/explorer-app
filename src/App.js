@@ -1,6 +1,7 @@
+import React from 'react';
 import './App.css';
 import SearchBar from './Components/SearchBar';
-import LocationData from "./Data.json"
+import LocationData from "./Data.json";
 
 function App() {
   return (
